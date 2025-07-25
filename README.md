@@ -30,8 +30,8 @@ pip freeze > requirements.txt
 ### 1. Stažení projektu
 Kód je možné stáhnout pomocí:
 ```bash
-git clone https adresa na github
-cd scraping-volny
+git clone https://github.com/Jedlickova/projekt_3
+cd projekt_3
 ```
 ### 2. Spuštění skriptu
 Skript se spouští pomocí dvou argumentů:
